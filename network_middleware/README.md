@@ -8,7 +8,7 @@ wasabo에서 사용할 도구를 변경하기 위해서는 ```testbeds/fingerpri
 만약 fingperprinting tools가 없다면 WASABO의 dockerfile을 통해 다운로드 받으면 된다.
 
 
-## 설치방법
+## WASABO 설치방법
 1. https://github.com/pragseclab/wasabo 를 통해 WASABO Clone
 2. Dockerfiles/FingerprintingTools/wappalyzer 에서 Docker image 생성
 	```bash
