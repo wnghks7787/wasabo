@@ -1,0 +1,6 @@
+[2025-10-16 14:55:43] ERROR run 실패: wordpress-6.8.1.yml -> /bin/sh: 1: Syntax error: "||" unexpected
+[2025-10-16 14:55:43] ERROR run 실패: wordpress-6.8.0.yml -> /bin/sh: 1: Syntax error: "||" unexpected
+[2025-10-16 14:55:43] ERROR run 실패: wordpress-6.8.2.yml -> /bin/sh: 1: Syntax error: "||" unexpected
+[2025-10-16 15:02:48] cleanup: docker-compose 정리 완료
+[2025-10-16 15:02:49] cleanup: docker-compose 정리 완료
+[2025-10-16 15:02:49] cleanup: docker-compose 정리 완료
